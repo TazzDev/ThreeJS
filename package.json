@@ -1,0 +1,17 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomson M",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "three": "^0.153.0"
+  }
+}
